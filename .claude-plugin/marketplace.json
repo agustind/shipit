@@ -1,0 +1,11 @@
+{
+  "name": "ship-it",
+  "owner": { "name": "YOUR_NAME" },
+  "plugins": [
+    {
+      "name": "ship-it",
+      "source": "./plugins/ship-it",
+      "description": "Deploy web apps to the cloud with a plan-then-apply workflow."
+    }
+  ]
+}
