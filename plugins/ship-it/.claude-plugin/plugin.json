@@ -2,8 +2,8 @@
   "name": "ship-it",
   "version": "0.1.0",
   "description": "Deploy web apps to the cloud with a plan-then-apply workflow. Masonite + Railway included.",
-  "author": { "name": "YOUR_NAME" },
+  "author": { "name": "dondo" },
   "license": "MIT",
-  "repository": "https://github.com/YOUR_GITHUB/ship-it",
+  "repository": "https://github.com/agustind/shipit",
   "keywords": ["deploy", "railway", "masonite", "infrastructure", "devops"]
 }

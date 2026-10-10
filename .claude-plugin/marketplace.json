@@ -1,6 +1,6 @@
 {
   "name": "ship-it",
-  "owner": { "name": "YOUR_NAME" },
+  "owner": { "name": "dondo" },
   "plugins": [
     {
       "name": "ship-it",

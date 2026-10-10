@@ -22,14 +22,14 @@ Like any skill, it runs with your agent's permissions. Review `SKILL.md` before 
 ### Claude Code (plugin)
 
 ```
-/plugin marketplace add YOUR_GITHUB/ship-it
+/plugin marketplace add agustind/shipit
 /plugin install ship-it@ship-it
 ```
 
 ### Any Agent Skills–compatible agent
 
 ```
-npx skills add YOUR_GITHUB/ship-it
+npx skills add agustind/shipit
 ```
 
 ### Manual
